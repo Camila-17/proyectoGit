@@ -4,18 +4,27 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 35px;
-    margin-top: 100px;
-    border-radius: 150px;
+    font-size: 25px;
+    margin-top: 25px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+h1{
+    color: aliceblue;
 }
 
 .contenido{
     display: flex;
-    background-color: blue;
+    background-color: black;
     align-items: center;
     justify-content: center;
-    border-radius: 300px;
-    margin-top: 90px;
+    border-radius: 25px;
+    margin-top: 30px;
+    padding: 100px;
+    margin: 200px;
+    
+    
 }
 
 .contenido p{
@@ -27,6 +36,6 @@ header{
 footer{
     background-color: black;
     color: aliceblue;
-    margin-top: 400px;
-    
+    margin-top: 300px;
+    padding: 30px;
 }

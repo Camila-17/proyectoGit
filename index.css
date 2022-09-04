@@ -1,12 +1,14 @@
 header{
-    background-color: darkgrey;
-    color: blue;
+    background-color:black;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 35px;
+    margin-top: 300px;
 }
 
 p{
     font-size: 20px;
+    color: cadetblue;
 }
